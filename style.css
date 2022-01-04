@@ -1,0 +1,47 @@
+.navbar {
+  background-color: whitesmoke;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+.Início {
+  background-color: #566573;
+  color: white;
+}
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.text {
+  padding-top: 15px;
+}
+
+.text1 {
+  padding-top: 15px;
+}
+
+.text2 {
+  padding-top: 15px;
+}
+
+.super-nintendo {
+  background-color: #808b96;
+  color: white;
+}
+
+.mega-drive {
+  background-color: #212f3d;
+  color: white;
+}
+
+.Playstation {
+  background-color: #17202a;
+  color: white;
+}
+
+.bg-footer {
+  background-color: whitesmoke;
+}
